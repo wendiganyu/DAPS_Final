@@ -1,0 +1,13 @@
+keras
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+snscrape
+pandas_datareader
+vaderSentiment
+tensorflow
+sklearn
+statsmodels
+
